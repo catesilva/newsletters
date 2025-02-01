@@ -12,8 +12,8 @@ You can access the newsletters here:
 
 ## 📂 Folder Structure
 
-- `/2025-newsletters/` – Contains Spring 2025 campaign newsletters  
-- `/2024-newsletters/` – Contains Spring 2024 campaign newsletters  
+- `/FW13-newsletters/` – Contains Call It Spring 2013 campaign newsletters  
+- `/SS14-newsletters/` – Contains Call It Spring 2014 campaign newsletters  
 - `/assets/` – Contains images and CSS files  
 
 ## ⚠️ Disclaimer
