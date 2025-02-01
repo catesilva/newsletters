@@ -8,7 +8,7 @@ This repository contains HTML newsletters coded for the Call It Spring Spring Ca
 ## 📄 How to View the Newsletters
 
 You can access the newsletters here:  
-[https://catesilva.github.io/spring-campaigns-newsletters/](https://catesilva.github.io/spring-campaigns-newsletters/)
+[https://catesilva.github.io/newsletters/](https://catesilva.github.io/newsletters/)
 
 ## 📂 Folder Structure
 
